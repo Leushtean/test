@@ -6,3 +6,7 @@ container{
    max-width: 1220px;
    margin: 0 auto;
 }
+.header{
+   background-color: #aqua;
+   font-size: 14px;
+}
